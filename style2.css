@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+@media only screen and (max-width: 1050px)
+.head {
+    min-height: 51rem;
+    padding-top: 13rem;
+    padding-right: 13%;
+}
+.head-tentang {
+    background-image: linear-gradient(hsla(0,0%,100%,.75),hsla(0,0%,100%,.75)),url(/CompanyProfile/static/media/bg-tentang.f7accc75.jpg);
+}
